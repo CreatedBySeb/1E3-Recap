@@ -6,3 +6,4 @@ This is a small site with notes about the various concepts encountered in 1E3 fo
 2. [Anatomy](2-anatomy)
 3. [Control Flow](3-control-flow)
 4. [Functions](4-functions)
+5. [Arrays](5-arrays)
